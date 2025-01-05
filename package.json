@@ -1,0 +1,28 @@
+{
+  "name": "sawvirtualcollab",
+  "version": "1.0.0",
+  "description": "description: \"A collaborative platform integrating professional networking, job opportunities, and video-driven resumes.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawantube/sawVirtualCollab.git"
+  },
+  "keywords": [
+    "keywords:",
+    "[\"collaboration\"",
+    "\"job",
+    "portal\"",
+    "\"video",
+    "resumes\"",
+    "\"networking\"]"
+  ],
+  "author": "author: Saw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawantube/sawVirtualCollab/issues"
+  },
+  "homepage": "https://github.com/Pawantube/sawVirtualCollab#readme"
+}
